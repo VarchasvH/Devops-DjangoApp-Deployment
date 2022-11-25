@@ -1,4 +1,4 @@
-# Django-Python_ToDoApp-Deploymnet
+# Django-Python-ToDoApp-Deploymnet
 In this project, I did the following: 
 1. Built a Kubernetes Cluster on my local machine using Minikube
 2. Setup and Managed Docker Containers for Django and React apps into Kubernetes Pods.
