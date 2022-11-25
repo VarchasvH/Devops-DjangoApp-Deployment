@@ -4,3 +4,6 @@ In this project, I did the following:
 2. Setup and Managed Docker Containers for Django and React apps into Kubernetes Pods.
 3. Managed Deployment, AutoScaling, AutoHealing and Replication for Kubernetes Cluster.
 4. Managed network and Services with Host IP address.
+
+
+I have covered all the steps in my Blog : https://varchasvh.hashnode.dev
